@@ -52,7 +52,7 @@ akbarvpnnnnnnnnnn="raw.githubusercontent.com/kurosakitg/autoset/master/ohp"
 # Getting
 echo -e ""
 echo -e "${CYAN}━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m${NC}"
-echo -e "\E[44;1;39m          ⇱ SCRIPT BY kurosakitg ⇲          \E[0m"
+echo -e "\E[44;1;39m          ⇱ SCRIPT BY KurosakiTG ⇲          \E[0m"
 echo -e "${CYAN}━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m${NC}"
 echo -e ""
 apt install git curl -y >/dev/null 2>&1
