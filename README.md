@@ -1,4 +1,4 @@
-# directly install my dear without the need for an IP list
+# Directly install my dear without the need for an IP list
 </p> 
 <h2 align="center"> Supported Linux Distribution</h2>
 <p align="center"><img src="https://d33wubrfki0l68.cloudfront.net/5911c43be3b1da526ed609e9c55783d9d0f6b066/9858b/assets/img/debian-ubuntu-hover.png"></p> 
@@ -72,13 +72,12 @@ rm -f setup.sh && apt update && apt upgrade -y && update-grub && sleep 2 && apt-
 ```
 
 # Telegram
-[![Telegram-chat](https://img.shields.io/badge/Chat-Telegram-blue)](https://t.me/givpn/)
-[![Telegram-group](https://img.shields.io/badge/Telegram-group-blue)](https://t.me/givpn_grup/)
+[![Telegram-chat](https://img.shields.io/badge/Chat-Telegram-blue)](https://t.me/NeonShield/)
 
 # Donate
-[![PayPal donate button](https://img.shields.io/badge/Donate-PayPal-yellow)](https://paypal.me/givpn11)
+[![PayPal donate button](https://img.shields.io/badge/Donate-PayPal-yellow)](https://paypal.me/.......)
 [![QRIS donate button](https://img.shields.io/badge/Donate-QRIS-red)](https://raw.githubusercontent.com/givpn/AutoScriptXray/master/image/qris-givpn.jpg)
-[![Bitcoin donate button](https://img.shields.io/badge/Donate-Bitcoin-orange)](https://www.blockchain.com/explorer/addresses/btc/3BE1deCJcuykuTHMzmrmNYgN51E24Hix8i)
+[![Bitcoin donate button](https://img.shields.io/badge/Donate-Bitcoin-orange)](https://www.blockchain.com/explorer/addresses/btc/3.....)
 [![Ethereum donate button](https://img.shields.io/badge/Donate-Ethereum-blue)](https://www.blockchain.com/explorer/addresses/eth/0x3eb09df9a72e8e333e202116ff3eb348b3ebf554)
 # List Donate
 [![donate button](https://img.shields.io/badge/List-Donate-green)](https://github.com/givps/donate)
@@ -94,5 +93,5 @@ rm -f setup.sh && apt update && apt upgrade -y && update-grub && sleep 2 && apt-
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
 <p align="center">
-  <a><img src="https://img.shields.io/badge/givpn-Autoset%202023-blue" style="max-width:200%;">
+  <a><img src="https://img.shields.io/badge/Kurosaki-Autoset%202023-blue" style="max-width:200%;">
     </p>
