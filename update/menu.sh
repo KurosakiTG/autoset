@@ -19,8 +19,8 @@ wh="\033[0m"
 # IP INFO
 MYIP=$(curl -sS ifconfig.me)
 LOC=$(curl -sS ifconfig.co/country)
-#ISP=$(curl -s ipinfo.io/org?token=ce3da57536810d )
-#CITY=$(curl -s ipinfo.io/city?token=ce3da57536810d )
+#ISP=$(curl -s ipinfo.io/org )
+#CITY=$(curl -s ipinfo.io/city )
 # TOTAL RAM
 total_ram=` grep "MemTotal: " /proc/meminfo | awk '{ print $2}'`
 totalram=$(($total_ram/1024))
