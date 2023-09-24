@@ -18,7 +18,7 @@ yl="\033[0;1;33m"
 wh="\033[0m"
 # IP INFO
 MYIP=$(curl -sS ifconfig.me)
-LOC=$(curl -sS ifconfig.co/country)
+LOC=$(curl -sS ipinfo.io/country)
 #ISP=$(curl -s ipinfo.io/org )
 #CITY=$(curl -s ipinfo.io/city )
 # TOTAL RAM
