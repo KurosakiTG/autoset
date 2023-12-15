@@ -89,7 +89,7 @@ wget https://${akbarvpnnnnnnnnn}/edu.sh && chmod +x edu.sh && ./edu.sh
 # Ohp Server
 wget https://${akbarvpnnnnnnnnnn}/ohp.sh && chmod +x ohp.sh && ./ohp.sh
 # Install SlowDNS
-wget https://raw.githubusercontent.com/NevermoreSSH/hop/main/SLDNS/install-sldns && chmod +x install-sldns && ./install-sldns
+wget https://raw.githubusercontent.com/SETANTAZVPN/AutoScriptXray/master/udp-custom/slowdns/slowdns.sh && chmod +x slowdns.sh && ./slowdns.sh
 # Informasi IP Saya dan Semua Port TCP UDP
 # wget https://raw.githubusercontent.com/kurosakitg/autoset/master/ipsaya.sh && chmod +x ipsaya.sh
 #
