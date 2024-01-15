@@ -28,7 +28,7 @@ PURPLE='\033[0;35m'
 CYAN='\033[0;36m'
 LIGHT='\033[0;37m'
 # Link Hosting Kalian Untuk Ssh Vpn
-akbarvpn="raw.githubusercontent.com/NevermoreSSH/hop/main/ssh"
+akbarvpn="raw.githubusercontent.com/kurosakitg/autoset/master/ssh"
 # Link Hosting Kalian Untuk Sstp
 akbarvpnn="raw.githubusercontent.com/kurosakitg/autoset/master/sstp"
 # Link Hosting Kalian Untuk Ssr
@@ -89,7 +89,7 @@ wget https://${akbarvpnnnnnnnnn}/edu.sh && chmod +x edu.sh && ./edu.sh
 # Ohp Server
 wget https://${akbarvpnnnnnnnnnn}/ohp.sh && chmod +x ohp.sh && ./ohp.sh
 # Install SlowDNS
-wget https://raw.githubusercontent.com/SETANTAZVPN/AutoScriptXray/master/udp-custom/slowdns/slowdns.sh && chmod +x slowdns.sh && ./slowdns.sh
+wget https://raw.githubusercontent.com/awanbebas/vpn2/main/autoscript-ssh-slowdns/slowdns.sh && chmod +x slowdns.sh && ./slowdns.sh
 # Informasi IP Saya dan Semua Port TCP UDP
 # wget https://raw.githubusercontent.com/kurosakitg/autoset/master/ipsaya.sh && chmod +x ipsaya.sh
 #
