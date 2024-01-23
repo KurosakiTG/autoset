@@ -200,7 +200,7 @@ echo "   - Full Orders For Various Services" | tee -a log-install.txt
 echo "   - White Label" | tee -a log-install.txt
 echo "   - Installation Log --> /root/log-install.txt"  | tee -a log-install.txt
 echo "----------------------------------------------------------------------------" | tee -a log-install.txt
-echo "   -                Telegram : t.me/givpn" | tee -a log-install.txt
+echo "   -                Telegram : t.me/neonshield" | tee -a log-install.txt
 echo "$BGreen Auto reboot 10 Sec $NC"
 sleep 10
 rm -f setup.sh
