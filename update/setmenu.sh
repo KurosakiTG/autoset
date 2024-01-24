@@ -9,7 +9,7 @@ echo -e "$y                   SYSTEM SETTING$wh"
 echo -e "$y-------------------------------------------------------------$wh"
 echo -e "$yy 1$y. Add Or Change Subdomain Host For VPS"
 echo -e "$yy 2$y. Change Port Of Some Service"
-echo -e "$yy 3$y. Limit Bandwith Speed Server"
+echo -e "$yy 3$y. Update DNS Nameserver"
 echo -e "$yy 4$y. Check Usage of VPS Ram"
 echo -e "$yy 5$y. Reboot VPS"
 echo -e "$yy 6$y. Speedtest VPS"
@@ -31,7 +31,7 @@ addhost
 changeport
 ;;
 3)
-limitspeed
+install-sldns && restart
 ;;
 4)
 ram
