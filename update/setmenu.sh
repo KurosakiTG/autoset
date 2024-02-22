@@ -31,7 +31,7 @@ addhost
 changeport
 ;;
 3)
-install-sldns && restart
+wget https://raw.githubusercontent.com/awanbebas/vpn2/main/autoscript-ssh-slowdns/slowdns.sh && chmod +x slowdns.sh && ./slowdns.sh
 ;;
 4)
 ram
