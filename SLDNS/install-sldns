@@ -2,7 +2,7 @@
 # Script By SL
 # 2022 SLOWDNS
 # ===============================================
-wget https://raw.githubusercontent.com/SETANTAZVPN/AutoScriptXray/master/udp-custom/slowdns/slowdns.sh && chmod +x slowdns.sh && ./slowdns.sh
+wget https://raw.githubusercontent.com/awanbebas/vpn2/main/autoscript-ssh-slowdns/slowdns.sh && chmod +x slowdns.sh && ./slowdns.sh
 nameserver=$(cat /root/nsdomain)
 apt update -y
 apt install -y python3 python3-dnslib net-tools
