@@ -16,7 +16,7 @@ echo -e "$yy 6$y. Speedtest VPS"
 echo -e "$yy 7$y. Displaying System Information"
 echo -e "$yy 8$y. Info Script Auto Install"
 echo -e "$yy 9$y. Install TCP BBR"
-echo -e "$yy 10$y. DNS CHANGER"
+echo -e "$yy 10$y. Activate Port 25"
 echo -e "$yy 11$y. Menu"
 echo -e "$yy 12$y. Exit"
 echo -e "$y-------------------------------------------------------------$wh"
@@ -54,8 +54,7 @@ clear
 m-tcp
 ;;
 10)
-clear
-m-dns
+echo -e "Port 25" >> /etc/ssh/sshd_config ; systemctl restart ssh
 ;;
 11)
 clear
